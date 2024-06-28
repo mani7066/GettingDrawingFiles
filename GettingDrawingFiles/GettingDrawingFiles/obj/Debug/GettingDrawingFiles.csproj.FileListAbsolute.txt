@@ -1,0 +1,10 @@
+C:\Users\Vortroid\source\repos\GettingDrawingFiles\GettingDrawingFiles\bin\Debug\GettingDrawingFiles.exe.config
+C:\Users\Vortroid\source\repos\GettingDrawingFiles\GettingDrawingFiles\bin\Debug\GettingDrawingFiles.exe
+C:\Users\Vortroid\source\repos\GettingDrawingFiles\GettingDrawingFiles\bin\Debug\GettingDrawingFiles.pdb
+C:\Users\Vortroid\source\repos\GettingDrawingFiles\GettingDrawingFiles\obj\Debug\GettingDrawingFiles.csprojAssemblyReference.cache
+C:\Users\Vortroid\source\repos\GettingDrawingFiles\GettingDrawingFiles\obj\Debug\GettingDrawingFiles.Form1.resources
+C:\Users\Vortroid\source\repos\GettingDrawingFiles\GettingDrawingFiles\obj\Debug\GettingDrawingFiles.Properties.Resources.resources
+C:\Users\Vortroid\source\repos\GettingDrawingFiles\GettingDrawingFiles\obj\Debug\GettingDrawingFiles.csproj.GenerateResource.cache
+C:\Users\Vortroid\source\repos\GettingDrawingFiles\GettingDrawingFiles\obj\Debug\GettingDrawingFiles.csproj.CoreCompileInputs.cache
+C:\Users\Vortroid\source\repos\GettingDrawingFiles\GettingDrawingFiles\obj\Debug\GettingDrawingFiles.exe
+C:\Users\Vortroid\source\repos\GettingDrawingFiles\GettingDrawingFiles\obj\Debug\GettingDrawingFiles.pdb
